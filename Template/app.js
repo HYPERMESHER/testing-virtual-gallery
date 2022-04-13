@@ -2,14 +2,14 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/saturday-test-webgl2.loader.js";
+    var loaderUrl = buildUrl + "/006-build-with-mobile-cams.loader.js";
     var config = {
-        dataUrl: buildUrl + "/saturday-test-webgl2.data",
-        frameworkUrl: buildUrl + "/saturday-test-webgl2.framework.js",
-        codeUrl: buildUrl + "/saturday-test-webgl2.wasm",
+        dataUrl: buildUrl + "/006-build-with-mobile-cams.data",
+        frameworkUrl: buildUrl + "/006-build-with-mobile-cams.framework.js",
+        codeUrl: buildUrl + "/006-build-with-mobile-cams.wasm",
         streamingAssetsUrl: "StreamingAssets",
-        companyName: "DefaultCompany",
-        productName: "import from blender",
+        companyName: "Made by RIX",
+        productName: "VIRTUAL GALLERY",
         productVersion: "1.0",
     };
 
