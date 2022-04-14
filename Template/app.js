@@ -2,11 +2,11 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/006-build-with-mobile-cams.loader.js";
+    var loaderUrl = buildUrl + "/007-build-wasmfix.loader.js";
     var config = {
-        dataUrl: buildUrl + "/006-build-with-mobile-cams.data",
-        frameworkUrl: buildUrl + "/006-build-with-mobile-cams.framework.js",
-        codeUrl: buildUrl + "/006-build-with-mobile-cams.wasm",
+        dataUrl: buildUrl + "/007-build-wasmfix.data",
+        frameworkUrl: buildUrl + "/007-build-wasmfix.framework.js",
+        codeUrl: buildUrl + "/007-build-wasmfix.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Made by RIX",
         productName: "VIRTUAL GALLERY",
