@@ -2,11 +2,11 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/009-build-halfResTex-Except.loader.js";
+    var loaderUrl = buildUrl + "/010-build-wasm-WebGL1-2.loader.js";
     var config = {
-        dataUrl: buildUrl + "/009-build-halfResTex-Except.data",
-        frameworkUrl: buildUrl + "/009-build-halfResTex-Except.framework.js",
-        codeUrl: buildUrl + "/009-build-halfResTex-Except.wasm",
+        dataUrl: buildUrl + "/010-build-wasm-WebGL1-2.data",
+        frameworkUrl: buildUrl + "/010-build-wasm-WebGL1-2.framework.js",
+        codeUrl: buildUrl + "/010-build-wasm-WebGL1-2.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Made by RIX",
         productName: "VIRTUAL GALLERY",
