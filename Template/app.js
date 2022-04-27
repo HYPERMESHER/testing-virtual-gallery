@@ -2,11 +2,11 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/013-build.loader.js";
+    var loaderUrl = buildUrl + "/019-BUILD-WEBGL2-BEFORE1.loader.js";
     var config = {
-        dataUrl: buildUrl + "/013-build.data",
-        frameworkUrl: buildUrl + "/013-build.framework.js",
-        codeUrl: buildUrl + "/013-build.wasm",
+        dataUrl: buildUrl + "/019-BUILD-WEBGL2-BEFORE1.data",
+        frameworkUrl: buildUrl + "/019-BUILD-WEBGL2-BEFORE1.framework.js",
+        codeUrl: buildUrl + "/019-BUILD-WEBGL2-BEFORE1.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Made by RIX",
         productName: "VIRTUAL GALLERY",
